@@ -18,7 +18,7 @@ def About():
         Created By. Online#0007 ( 967816978683265025 )
         Github. https://github.com/online1004
         License. GNU General Public License v3.0
-        Last Update. 2022.01.26 Version 1.0.0
+        Last Update. 2023.01.26 Version 1.0.0
         Warning. When using it, all responsibility is up to you.
 
         Thank You For Using.
